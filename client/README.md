@@ -39,4 +39,4 @@ yarn global add @vue/cli-init
 2、初始化`vue`项目，使用webpack进行打包
 vue init webpack client
 
-3、
+这里使用的是前后端建立在不同的文件夹下，从而进行前后端的分离。
